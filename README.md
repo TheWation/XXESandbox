@@ -43,4 +43,4 @@ For educational purposes only. Do not use for illegal activities. Use at your ow
 
 ## License
 
-`WebSecurityVision` is made with ♥  by [Wation](https://github.com/TheWation) and it's released under the MIT license.
+`XXESandbox` is made with ♥  by [Wation](https://github.com/TheWation) and it's released under the MIT license.

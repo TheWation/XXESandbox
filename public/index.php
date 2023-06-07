@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $xml = file_get_contents('php://input');
 }
 else{
-    $xml = $_GET['input'];
+    $xml = @$_GET['input'];
 }
 
 if($xml){
